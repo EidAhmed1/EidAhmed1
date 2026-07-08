@@ -1,29 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Eid%20Ahmed&fontSize=80&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=230&section=header&text=Eid%20Ahmed&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;LLMs+%7C+RAG+%7C+MLOps;Building+AI+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;LLMs+%7C+RAG+%7C+MLOps;Building+AI+Solutions"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/ai.gif" width="350"/>
 
 </div>
 
 
 # 👋 About Me
 
-Hi, I'm **Eid Ahmed**.
+Hi, I'm **Eid Ahmed** 🚀
 
 🎓 Data Science & Artificial Intelligence Student  
-🤖 AI Engineer passionate about building intelligent systems  
-🏆 Hackathon Winner - 1st Place with **Team GoAI**
+🤖 AI Engineer passionate about designing intelligent systems  
+🏆 First Place Hackathon Winner with **Team GoAI**
 
-I build AI solutions using:
+I enjoy transforming ideas into AI-powered solutions using data, machine learning models, and modern AI technologies.
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Generative AI
-- LLM Applications
-- RAG Systems
-- MLOps
+My main interests:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 📝 Natural Language Processing (NLP)
+- 🔥 Generative AI
+- 📚 LLM Applications
+- 🔎 RAG Systems
+- ⚙️ MLOps
+- 👁️ Computer Vision (Future Focus)
 
 
 ---
@@ -31,130 +38,185 @@ I build AI solutions using:
 # 🏆 Achievements
 
 
+<div align="center">
+
 ## 🥇 First Place Hackathon Winner
 
-<div align="center">
-
-<img src="YOUR_PROJECT_IMAGE_LINK" width="600"/>
+### Team: GOAI
 
 </div>
 
 
-### 🚚 GoAI - Smart Delivery Platform for Gaza
+## 🚚 GoAI - Smart Delivery Platform for Gaza
 
-A delivery ecosystem designed to solve transportation challenges in Gaza.
+A digital delivery ecosystem designed to solve transportation and delivery challenges in Gaza.
 
-Features:
+The application provides:
 
-🚲 Bicycle & Car delivery  
+🚲 Bicycle delivery system  
+🚗 Car delivery system  
 🏪 Marketplace connecting stores and customers  
-📦 Delivery management system  
-🌍 Digital solution supporting local businesses  
+📦 Delivery management solutions  
+
+The goal was to create a practical platform that supports local businesses and improves delivery accessibility.
 
 
 ---
 
-# 🌍 Global Hackathon Project
+# 🌍 Global Hackathon Participation
 
 
 <div align="center">
 
-<img src="YOUR_MENTALLOAD_IMAGE_LINK" width="600"/>
+## Team: GOAI
 
 </div>
 
 
-## 🧠 MentalLoad
+# 🧠 MentalLoad
 
-An AI-powered system that helps users manage AI-related mental fatigue.
+An AI-powered system designed to measure and reduce mental fatigue caused by intensive usage of AI tools.
 
-The system:
+The system analyzes:
 
-- 📝 Collects user responses
-- 💬 Analyzes free-text input
-- 📊 Estimates fatigue level
-- 🤖 Provides personalized recommendations
-- 🔮 Predicts next-day workload
+📝 User answers  
+💬 Free-text input  
+📊 Fatigue level estimation  
+🤖 AI recommendations  
+🔮 Next-day workload prediction  
+
+
+The goal is to help users build healthier interaction patterns with AI systems.
 
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,docker,linux,vscode"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,mongodb,postgres"/>
 
 </div>
 
 
-## AI & Data Science
+---
+
+# 📊 Data Science & Machine Learning
 
 ```
 Python
 Pandas
 NumPy
 Scikit-Learn
-TensorFlow
-PyTorch
 Matplotlib
 Seaborn
+Feature Engineering
+Data Analysis
+Machine Learning Algorithms
+Model Evaluation
+Predictive Modeling
 ```
+
 
 ---
 
-## 🤖 Generative AI
+# 🧠 Deep Learning
 
 ```
-LLMs
+Neural Networks
+Deep Learning Fundamentals
+Model Training
+Model Optimization
+PyTorch
+TensorFlow
+Computer Vision (Learning)
+```
+
+
+---
+
+# 🤖 Generative AI & LLM Stack
+
+
+```
+Large Language Models (LLMs)
+
 RAG
+
 AI Agents
+
 LangChain
+
+Vector Databases
+
 ChromaDB
+
 FAISS
+
 Hugging Face
+
 Prompt Engineering
+
 OpenAI API
 ```
 
 
 ---
 
-## ⚙️ MLOps
+# ⚙️ MLOps & Deployment
+
 
 Currently learning:
 
 ```
-Docker
 FastAPI
+
+Docker
+
 MLflow
+
 CI/CD
+
 Model Deployment
+
 Production ML Systems
+
+Cloud AI Deployment
 ```
 
 
 ---
 
-# 🚀 Current Learning Journey
+# 🚀 AI Learning Roadmap
 
-```
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-NLP
-        ↓
-LLMs
-        ↓
-RAG
-        ↓
-AI Agents
-        ↓
-MLOps
-        ↓
-Computer Vision
+
+```mermaid
+graph LR
+
+A[Python 🐍] --> B[Data Science 📊]
+
+B --> C[Machine Learning 🤖]
+
+C --> D[Deep Learning 🧠]
+
+D --> E[NLP 📝]
+
+E --> F[LLMs 🔥]
+
+F --> G[RAG 📚]
+
+G --> H[AI Agents 🚀]
+
+H --> I[MLOps ⚙️]
+
+I --> J[Computer Vision 👁️]
+
 ```
 
 
@@ -172,7 +234,9 @@ Computer Vision
 <h3 align="center">🚚 GoAI Delivery</h3>
 
 <p align="center">
-Smart delivery platform for Gaza
+
+AI-powered delivery ecosystem for Gaza
+
 </p>
 
 </td>
@@ -183,7 +247,9 @@ Smart delivery platform for Gaza
 <h3 align="center">🧠 MentalLoad</h3>
 
 <p align="center">
-AI mental fatigue analysis system
+
+AI mental fatigue analysis and recommendation system
+
 </p>
 
 </td>
@@ -195,16 +261,18 @@ AI mental fatigue analysis system
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=EidAhmed1&show_icons=true&theme=tokyonight"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=EidAhmed1&show_icons=true&theme=tokyonight"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidAhmed1&layout=compact&theme=tokyonight"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidAhmed1&layout=compact&theme=tokyonight"/>
 
 
 </div>
@@ -226,13 +294,19 @@ AI mental fatigue analysis system
 
 # 📫 Connect With Me
 
-📧 Email: your-email@gmail.com
 
-💼 LinkedIn: Your LinkedIn
+📧 Email:
+your-eidez1252002@gmail.com
 
+
+💼 LinkedIn:
+https://www.linkedin.com/in/eidahmed-ai-engineer/
+
+
+---
 
 <div align="center">
 
-⭐ From ideas to AI solutions.
+⭐ Building AI solutions from ideas to reality.
 
 </div>
