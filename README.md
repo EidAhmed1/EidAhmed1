@@ -1,228 +1,238 @@
-<h1 align="center">Hi 👋, I'm Eid Ahmed</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer | Machine Learning | Deep Learning | NLP | LLMs | RAG | MLOps
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Eid%20Ahmed&fontSize=80&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-Building intelligent solutions using Artificial Intelligence to solve real-world problems.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;LLMs+%7C+RAG+%7C+MLOps;Building+AI+Solutions"/>
 
----
+</div>
 
-## 👨‍💻 About Me
 
-I am a **Data Science & Artificial Intelligence student** passionate about building AI-powered applications and solving real-world problems using data and intelligent systems.
+# 👋 About Me
 
-My interests focus on:
+Hi, I'm **Eid Ahmed**.
 
-- 🤖 Artificial Intelligence Applications
-- 🧠 Machine Learning & Deep Learning
-- 📝 Natural Language Processing (NLP)
-- 🔍 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚙️ MLOps & AI Deployment
-- 👁️ Computer Vision (Currently exploring)
+🎓 Data Science & Artificial Intelligence Student  
+🤖 AI Engineer passionate about building intelligent systems  
+🏆 Hackathon Winner - 1st Place with **Team GoAI**
 
-I enjoy transforming ideas into practical AI solutions and continuously improving my skills through projects, competitions, and research.
+I build AI solutions using:
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI
+- LLM Applications
+- RAG Systems
+- MLOps
+
 
 ---
 
 # 🏆 Achievements
 
-## 🥇 First Place Winner - Hackathon
 
-### Team: **GoAI**
+## 🥇 First Place Hackathon Winner
 
-Won the first place in a hackathon with our project:
+<div align="center">
 
-## 🚚 Smart Delivery Platform for Gaza
+<img src="YOUR_PROJECT_IMAGE_LINK" width="600"/>
 
-An innovative delivery application designed to solve transportation and delivery challenges in Gaza.
+</div>
 
-The platform includes:
 
-- 🚲 Bicycle & Car delivery system
-- 🛒 Marketplace connecting local stores and customers
-- 🏪 Store integration inside the application
-- 📦 Delivery management solutions
+### 🚚 GoAI - Smart Delivery Platform for Gaza
 
-The project focused on creating a practical digital solution that supports local businesses and improves delivery accessibility.
+A delivery ecosystem designed to solve transportation challenges in Gaza.
 
----
+Features:
 
-# 🌍 Global Hackathon Participant
+🚲 Bicycle & Car delivery  
+🏪 Marketplace connecting stores and customers  
+📦 Delivery management system  
+🌍 Digital solution supporting local businesses  
 
-## Team: **GoAI**
-
-Participated in a global hackathon with our project:
-
-# 🧠 MentalLoad
-
-An AI-powered solution designed to help users manage mental fatigue caused by intensive usage of Artificial Intelligence tools.
-
-### Project Idea:
-
-MentalLoad analyzes user stress and workload levels through:
-
-- 📝 Personalized questions
-- 💬 Open user input analysis
-- 🤖 AI-based recommendations
-- 📊 Fatigue level estimation
-- 🔮 Next-day prediction to help reduce overload
-
-The goal is to create a smarter approach to monitoring digital fatigue and improving user well-being.
 
 ---
 
-# 🛠️ Technical Skills
+# 🌍 Global Hackathon Project
 
-## Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
+<div align="center">
 
-- Python
-- Data Structures & Algorithms
-- Object-Oriented Programming
+<img src="YOUR_MENTALLOAD_IMAGE_LINK" width="600"/>
 
----
+</div>
 
-## Data Science & Machine Learning
 
-- Data Analysis
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-- Machine Learning Algorithms
-- Model Evaluation
-- Predictive Modeling
+## 🧠 MentalLoad
 
-Libraries:
+An AI-powered system that helps users manage AI-related mental fatigue.
 
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Seaborn
+The system:
+
+- 📝 Collects user responses
+- 💬 Analyzes free-text input
+- 📊 Estimates fatigue level
+- 🤖 Provides personalized recommendations
+- 🔮 Predicts next-day workload
+
 
 ---
 
-## Deep Learning
+# 🛠 Tech Stack
 
-Currently working with:
 
-- Neural Networks
-- Deep Learning Fundamentals
-- Model Training & Optimization
+<div align="center">
 
-Libraries:
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,docker,linux,vscode" />
 
-- PyTorch
-- TensorFlow
+</div>
 
----
 
-## Natural Language Processing (NLP)
+## AI & Data Science
 
-Experience with:
-
-- Text Processing
-- Text Classification
-- Sentiment Analysis
-- NLP Pipelines
-
-Currently exploring:
-
-- LLM Applications
-- Prompt Engineering
-- AI Agents
+```
+Python
+Pandas
+NumPy
+Scikit-Learn
+TensorFlow
+PyTorch
+Matplotlib
+Seaborn
+```
 
 ---
 
-# 🤖 Generative AI & LLM Stack
+## 🤖 Generative AI
 
-Currently learning and building with:
+```
+LLMs
+RAG
+AI Agents
+LangChain
+ChromaDB
+FAISS
+Hugging Face
+Prompt Engineering
+OpenAI API
+```
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- LangChain
-- Vector Databases
-- ChromaDB
-- FAISS
-- Hugging Face
-- OpenAI APIs
 
 ---
 
-# ⚙️ MLOps & Deployment
+## ⚙️ MLOps
 
 Currently learning:
 
-- Model Deployment
-- ML Pipelines
-- Docker
-- FastAPI
-- MLflow
-- CI/CD
-- Production AI Systems
+```
+Docker
+FastAPI
+MLflow
+CI/CD
+Model Deployment
+Production ML Systems
+```
+
 
 ---
 
-# 👁️ Future Focus
+# 🚀 Current Learning Journey
 
-My next specialization goal:
+```
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+NLP
+        ↓
+LLMs
+        ↓
+RAG
+        ↓
+AI Agents
+        ↓
+MLOps
+        ↓
+Computer Vision
+```
 
-## Computer Vision
-
-Exploring:
-
-- Image Processing
-- Object Detection
-- Computer Vision Models
-- AI Vision Applications
 
 ---
 
-# 🧰 Tools
+# 📌 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🚚 GoAI Delivery</h3>
+
+<p align="center">
+Smart delivery platform for Gaza
 </p>
 
----
+</td>
 
-# 🚀 Current Goals
 
-- Build production-ready AI applications
-- Master LLM engineering
-- Develop RAG-based systems
-- Learn advanced MLOps practices
-- Build Computer Vision solutions
-- Contribute to open-source AI projects
+<td width="50%">
+
+<h3 align="center">🧠 MentalLoad</h3>
+
+<p align="center">
+AI mental fatigue analysis system
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+
+<div align="center">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=EidAhmed1&show_icons=true&theme=tokyonight"/>
 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidAhmed1&layout=compact&theme=tokyonight"/>
 
-</p>
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: eidez1252002@gmail.com
+📧 Email: your-email@gmail.com
 
-💼 LinkedIn:https://www.linkedin.com/in/eidahmed-ai-engineer/
+💼 LinkedIn: Your LinkedIn
 
----
 
-⭐ Always learning, building, and exploring the future of Artificial Intelligence.
+<div align="center">
+
+⭐ From ideas to AI solutions.
+
+</div>
